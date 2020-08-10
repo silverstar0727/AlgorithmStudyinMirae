@@ -27,7 +27,7 @@ https://programmers.co.kr/
 https://projecteuler.net/
 -> 수학 + 프로그래밍 두마리 토끼를 모두 잡을 수 있는 사이트입니다.
 
----알고리즘 관련
+* 알고리즘 관련
 1. cp-algorithms
 https://cp-algorithms.com/
 -> 코테는 물론 ACMICPC와 같은 대회에서까지 사용하는 알고리즘이 기초부터 심화까지 자세히 설명되어 있습니다. 
