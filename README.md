@@ -1,1 +1,1 @@
-# Algorithm_study_mirae
+## 교내 알고리즘 스터디~
