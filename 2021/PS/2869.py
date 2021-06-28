@@ -1,3 +1,6 @@
+import math
+
 A, B, V = map(int, input().split())
 
-ans = (V // (A - B)) + 1 - (y // (A - B))
+ans = ((V - A) / (A - B)) + 1
+print(math.ceil(ans))
